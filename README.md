@@ -12,5 +12,5 @@
 
 ### Curiosidades
 
--Me gusta jugar al ajedrez
--Tengo un sobrino de 8 meses
+- Me gusta jugar al ajedrez
+- Tengo un sobrino de 8 meses
