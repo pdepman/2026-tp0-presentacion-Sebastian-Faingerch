@@ -10,7 +10,7 @@
 - Trabajo como programador
 - Estoy cursando el 2do año curricular de la carrera
 
-### Curiosidades
+## Curiosidades
 
 - Me gusta jugar al ajedrez
 - Tengo un sobrino de 8 meses
