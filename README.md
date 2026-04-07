@@ -1,9 +1,9 @@
-# tp 0 
-## Hola! Soy Sebastian Faingerch
+# tp 0 - Paradigmas de Programacion
+### Hola! Soy Sebastian Faingerch
 
 !![Texto alternativo](/foto-perfil.jpg)
 
-### Sobre mi
+## Sobre mi
 
 -Legajo: 202-609-9
 -Tengo 24 años
