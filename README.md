@@ -8,7 +8,7 @@
 - Legajo: 202-609-9
 - Tengo 24 años
 - Trabajo como programador
-- Estoy cursando el 2do año curricular de la materia
+- Estoy cursando el 2do año curricular de la carrera
 
 ### Curiosidades
 
