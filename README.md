@@ -1,7 +1,7 @@
 # tp 0 - Paradigmas de Programacion
 ### Hola! Soy Sebastian Faingerch
 
-![Texto alternativo](/foto-perfil.jpg)
+![Image](https://github.com/user-attachments/assets/a189a380-4c1d-4207-a20e-fd0f55fa3eec)
 
 ## Sobre mi
 
