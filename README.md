@@ -1,2 +1,16 @@
-# 2026-tp0-presentacion-Sebastian-Faingerch
-# 2026-tp0-presentacion-Sebastian-Faingerch
+# tp 0 
+## Hola! Soy Sebastian Faingerch
+
+!![Texto alternativo](/foto-perfil.jpg)
+
+### Sobre mi
+
+-Legajo: 202-609-9
+-Tengo 24 años
+-Trabajo como programador
+-Estoy cursando el 2do año curricular de la materia
+
+### Curiosidades
+
+-Me gusta jugar al ajedrez
+-
