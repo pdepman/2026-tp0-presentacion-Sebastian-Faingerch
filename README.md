@@ -5,10 +5,14 @@
 
 ## Sobre mi
 
-- Legajo: 202-609-9
-- Tengo 24 años
-- Trabajo como programador
-- Estoy cursando el 2do año curricular de la carrera
+- **Legajo:** 202-609-9  
+- **Edad:** 24 años  
+- **Trabajo:** Programador  
+  - *Tecnologías usadas:*  
+    - PHP  
+    - PostgreSQL  
+    - JavaScript  
+- **Estudios:** Cursando 2° año curricular de la carrera
 
 ## Curiosidades
 
